@@ -343,19 +343,15 @@ print_summary_table(data) CLI summary
 
 Main Menu
 
-```
-╔═══════╤══════╤══════════════════════════╤═════════════════════════════════╗
-║   #   │      │ Module                   │ Description                    ║
-╟───────┼──────┼──────────────────────────┼─────────────────────────────────╢
-║  1    │  📱  │ Device Manager           │ List & manage connected devices  ║
-║  2    │  🔎  │ APK Static Analyzer      │ Decompile & audit an APK file    ║
-║  3    │  🌐  │ Network Scanner          │ Port scan, WiFi info             ║
-║  4    │  🚨  │ Vulnerability Scanner    │ CVE mapping, root check          ║
-║  5    │  💥  │ Exploit Engine           │ Launch activities, shell dropper  ║
-║  6    │  🎯  │ Payload Generator        │ APK payloads, reverse shells     ║
-║  7    │  📋  │ Report Generator         │ Generate HTML/JSON security      ║
-╚═══════╧══════╧══════════════════════════╧═════════════════════════════════╝
-```
+
+<div align="center">
+
+![EXSLV Banner](https://files.catbox.moe/x4fre3.jpg)
+
+**v3.0.0 — Advanced Android Pentesting Framework**
+
+</div>
+
 
 APK Analysis Output
 
